@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev31sanghvi.github.io/My-Portfolio/](https://dev31sanghvi.github.io/My-Portfolio/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** and **Open Source**
 
 - 📫 How to reach me **devsanghviwork@gmail.com**
 
