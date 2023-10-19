@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?username=dev31sanghvi&theme=dracula
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=dev31sanghvi&theme=dracula" />
 <h1 align="center">Hi 👋, I'm Dev Sanghvi</h1>
 <h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt"Coding" width="500" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"
