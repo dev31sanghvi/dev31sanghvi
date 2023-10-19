@@ -1,4 +1,4 @@
-
+[![trophy](https://github-profile-trophy.vercel.app/?dev31sanghvi=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hi 👋, I'm Dev Sanghvi</h1>
 <h3 align="center">A passionate frontend developer </h3>
