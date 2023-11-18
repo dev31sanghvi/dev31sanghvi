@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Dev Sanghvi</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align="right" alt"Coding" width="500" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
+<br><br>
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev31sanghvi&label=Profile%20views&color=0e75b6&style=flat" alt="dev31sanghvi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devsanghvi13" target="blank"><img src="https://img.shields.io/twitter/follow/devsanghvi13?logo=twitter&style=for-the-badge" alt="devsanghvi13" /></a> </p>
