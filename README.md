@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React js and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://dev31sanghvi.github.io/My-Portfolio/](https://dev31sanghvi.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://devsanghvi.vercel.app/](https://devsanghvi.vercel.app/)
 
 - 💬 Ask me about **MERN** and **Open Source**
 
