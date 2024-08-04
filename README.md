@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dev Sanghvi</h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h3 align="center">A passionate full-stack developer </h3>
-<br>
 <h3 align="center"> 👨‍💻 My Portfolio Site: https://www.devsanghvi.me/</h3>
 <br><br>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
